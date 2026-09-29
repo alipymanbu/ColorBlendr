@@ -1,178 +1,26 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mahmud0808/ColorBlendr/master/.github/resources/banner.png" width="100%" alt="Banner">
-
-#
-</div>
-<p align="center">
-  <a href="https://github.com/Mahmud0808/ColorBlendr"><img alt="Repo Size" src="https://img.shields.io/github/repo-size/Mahmud0808/ColorBlendr?style=for-the-badge"></a>
-  <a href="https://github.com/Mahmud0808/ColorBlendr/releases"><img src="https://img.shields.io/github/downloads/Mahmud0808/ColorBlendr/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge" alt="Downloads"></a>
-  <a href="https://t.me/DrDsProjects"><img src="https://img.shields.io/badge/Telegram-Join-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-</p>
-<div align="center">
-
 # ColorBlendr
 
-### Customize Material You colors of your device.
-</div>
-<p align="center">
-Elevate your creativity with effortless material customization. Instantly tweak colors for a personalized touch in just a few taps.
-</p>
-<br>
-<div align="center">
-  <a href="https://f-droid.org/en/packages/com.drdisagree.colorblendr/"><img src="https://raw.githubusercontent.com/Mahmud0808/ColorBlendr/master/.github/resources/fdroid-button.png" width="30%" alt="Get it on F-Droid" /></a>
-  <br>
-  <a href="https://apt.izzysoft.de/packages/com.drdisagree.colorblendr/"><img src="https://raw.githubusercontent.com/Mahmud0808/ColorBlendr/master/.github/resources/izzyondroid-button.png" width="30%" alt="Get it on IzzyOnDroid" /></a>
-  <br>
-  <a href="https://www.buymeacoffee.com/DrDisagree"><img src="https://raw.githubusercontent.com/Mahmud0808/ColorBlendr/master/.github/resources/bmc-button.png" width="30%" alt="Buy me a coffee" /></a>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Mahmud0808/ColorBlendr/master/.github/resources/features.png" width="100%" alt="Features">
-</div>
+本仓库是「ColorBlendr」的安卓版本获取入口，附使用资料索引。
 
-## Features 🔥
+## 安装文件资源（夸克网盘）
 
-**Color sources**
+> **ColorBlendr 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/767a7a67b5e0](https://pan.quark.cn/s/767a7a67b5e0)
 
-- Generate palettes from your wallpaper
-- Pick any seed color, or choose from a set of basic colors
-- Live preview before applying — see changes as you tweak them
+## 官方项目
 
-**Fine-tuning**
+- 上游项目：[Mahmud0808/ColorBlendr](https://github.com/Mahmud0808/ColorBlendr)
 
-- Accent saturation, background saturation, and background lightness sliders
-- Ready-made Monet style presets
-- Pitch black theme for dark mode
-- Tinted text color
-- Custom secondary and tertiary colors
+## 更多资料
 
-**Full control**
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/ColorBlendr%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [Root与Shizuku和无线ADB模式怎么选](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/ColorBlendr%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/Root%E4%B8%8EShizuku%E5%92%8C%E6%97%A0%E7%BA%BFADB%E6%A8%A1%E5%BC%8F%E6%80%8E%E4%B9%88%E9%80%89.md)
+- [三星OneUI深色模式发灰怎么修](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/ColorBlendr%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E4%B8%89%E6%98%9FOneUI%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%E5%8F%91%E7%81%B0%E6%80%8E%E4%B9%88%E4%BF%AE.md)
+- [单独给某个应用改色怎么做](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/ColorBlendr%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E5%8D%95%E7%8B%AC%E7%BB%99%E6%9F%90%E4%B8%AA%E5%BA%94%E7%94%A8%E6%94%B9%E8%89%B2%E6%80%8E%E4%B9%88%E5%81%9A.md)
+- [备份恢复与彻底卸载](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/ColorBlendr%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E5%A4%87%E4%BB%BD%E6%81%A2%E5%A4%8D%E4%B8%8E%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BD.md)
+- [常见问题与排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/ColorBlendr%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E6%8E%92%E6%9F%A5.md)
+- [怎么调出想要的配色](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/ColorBlendr%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E6%80%8E%E4%B9%88%E8%B0%83%E5%87%BA%E6%83%B3%E8%A6%81%E7%9A%84%E9%85%8D%E8%89%B2.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-- Manual per-shade color overriding across the whole palette
-- Separate configurations for light and dark mode
-- Extra tweaks: color spec version, screen-off updates, darker / semi-transparent Pixel launcher icons
+---
 
-**AI & community**
-
-- Community creations — browse, apply, upvote, and share themes (see below)
-
-**Backup & modes**
-
-- Backup and restore your entire setup to a file
-- Works with **Root**, **Shizuku**, or **Wireless ADB**
-- and many more...
-
-## Requirements 🛠
-
-- Android 12+ ROM with Material You support
-- Working **Root**, **Shizuku**, or **Wireless ADB** environment
-
-## How to Use 🚀
-
-- Download and install the apk
-- Allow permissions for the app
-- Select **Root**, **Shizuku**, or **Wireless ADB** mode
-- That's it. Now you are good to go!
-
-## Note 📝
-
-- Root is recommended if you want to have the full experience
-- Shizuku and Wireless ADB are also supported but customizations are limited
-
-## Community Creations 🎨
-
-Share your favorite color setups and discover themes crafted by others, right inside the app.
-
-- **Browse & search** — explore a growing gallery of community-made themes, sorted by popularity or recency
-- **One-tap apply** — preview any creation live and apply it instantly (root mode)
-- **Upvote** — like the themes you enjoy so the best ones rise to the top
-- **Share your own** — publish your current palette with a name and description
-
-Everything is anonymous — no account, sign-up, or personal data required. Submissions go through a quick human review before they appear for everyone.
-
-> [!NOTE]
->
-> Browsing and upvoting work on every mode. Applying a community creation requires root.
-
-## FAQ 🤓
-
-<details>
-  <summary>How does ColorBlendr work without root access?</summary>
-
-- ColorBlendr utilizes adb commands to change Material You colors, allowing users to modify these colors without needing root access.
-</details>
-
-<details>
-  <summary>How does ColorBlendr work with root access?</summary>
-
-- ColorBlendr leverages the [FabricatedOverlay](https://developer.android.com/reference/android/content/om/FabricatedOverlay) API to dynamically change Material You colors at runtime without creating any permanent files.
-</details>
-
-<details>
-  <summary>Why doesn't ColorBlendr work properly on OneUI?</summary>
-
-- OneUI uses its own color palette for system apps, not Material You colors. As a result, ColorBlendr's modifications only affect Google apps and other apps that support Material You, but not OneUI system apps.
-</details>
-
-<details>
-  <summary>Why are some features grayed out or cannot be enabled?</summary>
-
-- These features either require a specific Android version or higher, or you need root access to unlock all features.
-</details>
-
-<details>
-  <summary>How do I properly uninstall ColorBlendr?</summary>
-
-- First, disable the ColorBlendr Service from app settings. Then, uninstall the app and reboot your device.
-</details>
-
-<details>
-  <summary>Is any personal data collected when I share a theme?</summary>
-
-- No. Community creations are fully anonymous — no account or personal data is attached. Only the palette itself, along with the name and description you provide, is submitted.
-</details>
-
-<details>
-  <summary>Why can't I apply a community creation?</summary>
-
-- Applying a community creation modifies system colors, which requires root. You can still browse, search, and upvote in Shizuku and Wireless ADB modes.
-</details>
-
-<a id="tasker-integration"></a>
-<details>
-  <summary>Can I automate theme changes with Tasker?</summary>
-
-- Yes. Enable **Tasker integration** in the app's advanced settings, then send a broadcast from Tasker (or MacroDroid / Automate) with:
-  - **Action:** `com.drdisagree.colorblendr.action.APPLY_CONFIG`
-  - **Package:** `com.drdisagree.colorblendr` (required — broadcasts without it are dropped by Android)
-  - **Target:** Broadcast Receiver
-
-- Supported extras — include any combination; only the ones you send are changed:
-
-  | Extra | Type | Values | What it does |
-  |-------|------|--------|--------------|
-  | `seedColor` | String | `#RRGGBB`, e.g. `#3F51B5` | Sets a custom seed color and generates the palette from it |
-  | `randomColor` | Boolean | `true` | Picks a random vivid seed color |
-  | `wallpaperColors` | Boolean | `true` | Switches back to wallpaper-based colors |
-  | `monetStyle` | String | `TONAL_SPOT`, `VIBRANT`, `EXPRESSIVE`, `RAINBOW`, `FRUIT_SALAD`, `SPRITZ`, `MONOCHROMATIC`, `FIDELITY`, `CONTENT`, `CMF` | Sets the Monet style preset |
-  | `accentSaturation` | Integer | `0`–`200` (100 = default) | Accent saturation slider |
-  | `backgroundSaturation` | Integer | `0`–`200` (100 = default) | Background saturation slider |
-  | `backgroundLightness` | Integer | `0`–`200` (100 = default) | Background lightness slider |
-  | `pitchBlack` | Boolean | `true` / `false` | Toggles the pitch black dark theme |
-  | `accurateShades` | Boolean | `true` / `false` | Toggles accurate shades |
-  | `config` | String | JSON with any of the keys above, e.g. `{"seedColor":"#3F51B5","pitchBlack":true}` | Sends everything in one extra — useful since Tasker's UI has limited extra fields |
-
-- Values outside their allowed range or malformed colors are ignored. Extras sent both individually and inside `config` — the individual one wins.
-- Sending any of the three slider extras turns off **Mode specific themes**, since the automated value replaces the separate light/dark slider setup.
-- If **Update colors when screen off** is enabled, automated changes are held back and applied once the screen actually turns off.
-- Example: a Tasker time profile repeating every hour + Send Intent with extra `randomColor:true` gives you a fresh random theme every hour.
-</details>
-
-## Translation 🌐
-
-- Assist in translating ColorBlendr into your preferred language through [our Crowdin platform](https://crowdin.com/project/ColorBlendr). Your contribution will help make ColorBlendr accessible to a wider audience.
-
-## Credits 🤝
-
-- [@siavash79](https://github.com/siavash79) for helping me.
-- [@fennifith](https://github.com/fennifith) for color picker.
-- [@MuntashirAkon](https://github.com/MuntashirAkon) for lib adb.
-- And everyone who [contributed](https://github.com/Mahmud0808/ColorBlendr/blob/master/docs/contributors.md) and [translated](https://github.com/Mahmud0808/ColorBlendr/blob/master/docs/translators.md)... :)
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/Mahmud0808/ColorBlendr)。
